@@ -1,16 +1,13 @@
-### Hi there 👋
+-👋 Hi I am @Yogeshkrishn.
 
-<!--
-**Yogeshkrishn/Yogeshkrishn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧔 I am an aspiring data scientist.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Machine Learning and Deep learning projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning various machine learning techniques.
+
+👯 I’m looking to collaborate on Machine learning projects.
+
+💬 Ask me about Artificial Intelligence, Statistics, DataScience, Fitness.
+
+📫 How to reach me: +91 9123590690.

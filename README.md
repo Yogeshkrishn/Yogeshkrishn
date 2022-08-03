@@ -1,6 +1,6 @@
 -👋 Hi I am @Yogeshkrishn.
 
-🧔 I am an aspiring data scientist.
+🧔 I am a Data scientist.
 
 🔭 I’m currently working on Machine Learning and Deep learning projects.
 
@@ -10,4 +10,4 @@
 
 💬 Ask me about Artificial Intelligence, Statistics, DataScience, Fitness.
 
-📫 How to reach me: +91 9123590690.
+📫 How to reach me: yogeshiaf399@gmail.com
